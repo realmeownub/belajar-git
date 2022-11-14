@@ -2,4 +2,4 @@ Belajar git
 - Mengenal github
 - Mengenal dasar-dasar git
 - Melakukan commit di github
-- Membuat repository
+- Membuat folder folder
