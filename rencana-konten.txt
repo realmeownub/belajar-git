@@ -2,7 +2,10 @@ Rencana konten
 - selenium
   * webdriver
   * framework lain
+   ^ BDD
 - Jmeter
 - pytest
+ ^ tutorial
 - robot framework
 - Jenkins
+- QA engineer
