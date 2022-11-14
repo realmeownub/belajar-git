@@ -1,0 +1,7 @@
+Rencana konten
+- selenium
+  * webdriver
+  * framework lain
+- pytest
+- robot framework
+- Jenkins
