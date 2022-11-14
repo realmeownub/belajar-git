@@ -2,8 +2,11 @@ Rencana konten
 - selenium
   * webdriver
   * framework lain
-   ^ unittest
-   ^ htmlrunner
+   ^ BDD
+   ^ OOP
+- Jmeter
 - pytest
+ ^ tutorial
 - robot framework
 - Jenkins
+- QA engineer
